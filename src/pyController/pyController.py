@@ -8,7 +8,7 @@ import glob
 import sys
 
 __author__ = "J0MS"
-__author_email__ = "passwd@ciencias.unam.mx"
+__author_email__ = "subliminal@ciencias.unam.mx"
 
 class bcolors:
     HEADER = '\033[95m'
